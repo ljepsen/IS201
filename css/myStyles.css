@@ -1,0 +1,79 @@
+.header{
+    background-color: rgba(1, 134, 130, 0.632);
+    color: whitesmoke;
+    font-size:35px;
+    height:85px;
+    line-height:85px;
+    font-weight:bold;
+}
+
+.mainbody{
+    background-color:whitesmoke;
+    font-size:18px;
+}
+
+.footer{
+    background-color: darkgray;
+    color: whitesmoke;
+    height:35px;
+    line-height:35px;
+    font-size:13px;
+}
+
+
+nav{
+    background-color:lightgray;
+    padding:10px;
+    overflow:hidden;
+    text-align:right;
+    height:20px;
+    line-height:20px;
+}
+
+nav a{
+    color: #333;
+    font-weight:bold;
+    text-decoration:none;
+    margin-right:50px;
+    padding:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+nav a:hover{
+    color:#b9b7b7
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:35%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
+ol{
+    display: inline-block;
+}
+
+
+.common{
+    text-align:center;
+    list-style-position:inside;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.myTableauViz{
+    width: 950px;
+    margin-left: 385px;
+    margin-right: auto;
+    }
